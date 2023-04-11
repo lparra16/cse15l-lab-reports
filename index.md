@@ -9,13 +9,9 @@
 
 ![Image](RedoingSteps1.PNG)
 
-2. Next open up the command palette by typing in `CTRL + Shift + P` and type in
+2. Next open up the command palette by typing in `CTRL + Shift + P` and type in Select Default Profile
 
-![Image](RedoingSteps2.PNG)
-
-3. Next click on Git Bash
-
-![Image](RedoingSteps3.PNG)
+3. Hit enter and click on Git Bash
 
 4. Finally you can click on the plus box in the terminal to access Git Bash
 
