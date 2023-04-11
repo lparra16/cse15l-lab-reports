@@ -6,15 +6,19 @@
 3. Next follow these steps during your first time launching Visual Studio (and if Bash isn't running on VScode. These were the steps given to us during class.
 
 --- 
-1. Open up the terminal by clicking here.
+First, open up the terminal by clicking here.
 
 ![Image](RedoingSteps1.PNG)
 
-2. Next open up the command palette by typing in `CTRL + Shift + P` and type in Select Default Profile
+Second, open up the command palette by typing in `CTRL + Shift + P` and type in Select Default Profile
 
-3. Hit enter and click on Git Bash
+![Image](RedoingSteps2.PNG)
 
-4. Finally you can click on the plus box in the terminal to access Git Bash
+Third, hit enter and click on Git Bash
+
+![Image](RedoingSteps3.PNG)
+
+Finally you can click on the plus box in the terminal to access Git Bash
 
 ![Image](RedoingSteps4.PNG)
 
