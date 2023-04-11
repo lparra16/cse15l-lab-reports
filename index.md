@@ -40,7 +40,7 @@ These are some examples of me using commands on the Lab Computer.
 
 ![Image](stepsfromlecture3.PNG)
 
-This is where I was trying to use commands and then changed my directory to the c drive instead from the h drive that's on the lab computers.
+This is where I was trying to use commands and then changed my directory to the C drive instead from the H drive that's on the lab computers.
 
 Do note that depending on each computer you use this own (due to files differing depending on personal laptops) not all commands will look the same and have the same output. 
 
