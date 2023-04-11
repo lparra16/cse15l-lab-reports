@@ -3,7 +3,8 @@
 ## Section 1 : Installing VScode (*First Time Setup*)
 1. First, if Visual Studio Code is not installed on your device click on the [link](https://code.visualstudio.com/) and follow the directions to install. If you are using a lab computer, like during lab time, Visual Studio is already installed and this step can be skipped.
 2. Since git is a neccesary step of using VScode and neccesary to correctly use commands you install git at [this link](https://gitforwindows.org/). From there you click on download and click through all of the installations (You don't need to alter any of the intstallation settings)
-3. Next follow these steps during your first time launching Visual Studio (and if Bash isn't running on VScode. *These were the steps given to us during class.* 
+3. Next follow these steps during your first time launching Visual Studio (and if Bash isn't running on VScode. These were the steps given to us during class.
+
 --- 
 1. Open up the terminal by clicking here.
 
@@ -17,8 +18,6 @@
 
 ![Image](RedoingSteps4.PNG)
 
----
-
 
 ## Section 2 : Remotely Connecting
 1. To remotely connect you need to be using Bash on VSCode, so if you don't have it installed look at Section 1 steps 2-3.
@@ -30,7 +29,7 @@
 Do note that when connecting to the server for the first time you will have to accept the connection by typing `yes` into the terminal. 
 
 ## Section 3 : Trying Some Commands on VSCode
-1. Now you are able to able to use commands on VSCode (if you have connection issues remotely connecting you can still do these commands.)
+Now you are able to able to use commands on VSCode (if you have connection issues remotely connecting you can still do these commands.)
 
 These are some examples of me using commands on the Lab Computer.
 
@@ -43,3 +42,5 @@ Do note that depending on each computer you use this own (due to files differing
 ![Image](StepsFromLecture4.PNG)
 
 This is just some of the files I have when typing out the command where an example of something that would not be on the lab computers is the folder called 'javaschtuff' as I decided to name my visual studio code work folder that when starting one of my CSE courses. 
+
+Overall this is the basics on how to fully install VSCode, remotely connect, and to use commands.
